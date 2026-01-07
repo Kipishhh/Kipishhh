@@ -1,12 +1,12 @@
 # Hi, i'm Kipishhh
 ## Student
-### 📖 I'm currently learning programming. I want to create projects that can help people.
+### 📖 В настоящий момент я изучаю программирование. Я хочу создавать проекты, которые смогут развлечь и помочь занять свободное время.
 ## 🧷 Contact:
 **✉️ Email:** 
-## Skills:
+## 🦾 Skills:
 ### **Programming Languages:**
 **Python, SQL**
 ## Projects:
 **In process**
-## Fun fact:
-**I'm a creative person and try to do everything with the appropriate approach.**
+## 🌟 Fun fact:
+**Я креативный человек, и стараюсь подходить ко всему с соответствующим подходом.**
